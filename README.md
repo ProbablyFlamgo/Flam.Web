@@ -1,6 +1,7 @@
 # Flam.Web
 ---
 * This is not the Build version this is the open source version
+* If you do want the build version please install from the Build Branch
 ---
 Version: 0.2v
 ---
