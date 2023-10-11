@@ -2,7 +2,7 @@
 ---
 Install Instructions
 1) Install the Respritory From Github
-2) Go to [Link](https://drive.google.com/drive/u/0/folders/1tL7KQ4ucFOUBp_vKMp3lclteJrRd-nG-) and install the .exe
+2) Go to [Google Drive Link](https://drive.google.com/drive/u/0/folders/1tL7KQ4ucFOUBp_vKMp3lclteJrRd-nG-) and install the .exe
 4) Extract folder onto desktop
 5) Put the .exe into the respritory (DO NOT PUT IT INTO THE IMAGES FOLDER)
 6) run .exe
